@@ -2,6 +2,7 @@ Hi 👋 My name is Teerakorn Srirach
 ==================================
 ![](https://komarev.com/ghpvc/?username=sohot250&color=red)
 
+<img
 src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
 bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
 M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.bing.com/images/search?view=detailV2&ccid=kvnlOZg1&id=0904475C1A467C69521704622885245EAA17374C&thid=OIP.kvnlOZg1TGJOifUnHx9UeQHaH1&mediaurl=https%3A%2F%2Fcdn.donmai.us%2Foriginal%2F92%2Ff9%2F__diabellstar_the_black_witch_yu_gi_oh_and_1_more_drawn_by_anonymous_yu_gi_oh__92f9e53998354c624e89f5271f1f5479.png%3Fdownload%3D1&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.92f9e53998354c624e89f5271f1f5479%3Frik%3DTDcXql4khShiBA%26pid%3DImgRaw%26r%3D0&exph=1850&expw=1750&q=Diabellstar&FORM=IRPRST&ck=27FA9C4EEB243042961A5B1A72655D15&selectedIndex=4&itb=1&cw=1721&ch=860&ajaxhist=0&ajaxserp=0)" width="100" height="100" />
