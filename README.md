@@ -1,6 +1,6 @@
 Hi 👋 My name is Teerakorn Srirach
 ==================================
-![](https://komarev.com/ghpvc/?username=sohot250&color=red)
+![](https://komarev.com/ghpvc/?username=teerakorms-max&color=red)
 
 <img
 src="[file:///C:/Users/LAB9210/Pictures/OIP.webp](https://www.bing.com/images/search?view=detailV2&ccid=wiGyz7Ed&id=08866D4D6E6269AA13EE66C88A15905232B930E9&thid=OIP.wiGyz7Ed4pgWV3NgyQIPuQHaJ4&mediaurl=https%3A%2F%2Fs1.zerochan.net%2FDiabellestarr.the.Dark.Witch.600.4059244.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c221b2cfb11de29816577360c9020fb9%3Frik%3D6TC5MlKQFYrIZg%26pid%3DImgRaw%26r%3D0&exph=800&expw=600&q=Diabellstar&FORM=IRPRST&ck=5E04E74CA85759C1891321B38AB21994&selectedIndex=5&itb=0&cw=1721&ch=860&ajaxhist=0&ajaxserp=0)" width="100" height="100" />
